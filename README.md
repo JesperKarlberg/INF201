@@ -1,2 +1,2 @@
-# INF120
-Repository for INF120
+# INF201
+Repository for INF201
