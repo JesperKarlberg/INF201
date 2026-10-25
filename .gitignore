@@ -219,8 +219,13 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#
+# Task 1
 frost_met_code.py
 
 deliverable_1.html
 deliverable_1.pdf
+
+# Task 2
+deliverable_2.ipynb
+deliverable_2.pdf
+task_2/generate_data_for_d2.py
