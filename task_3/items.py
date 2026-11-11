@@ -8,4 +8,4 @@ class Weapon:
         return self.damage_dice.roll()
 
     def __repr__(self) -> str:
-    return f"<Character name={self.name} hp={self.hp} damage={self.damage}>)"
+        return f"<Character name={self.name} hp={self.hp} damage={self.damage}>)"
