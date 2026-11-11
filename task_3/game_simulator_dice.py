@@ -25,4 +25,3 @@ class Dice:
     def __call__(self):
 
         return self.roll()
-        
