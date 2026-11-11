@@ -6,6 +6,3 @@ class Weapon:
 
     def roll_damage(self) -> int:
         return self.damage_dice.roll()
-
-    def __repr__(self) -> str:
-        return f"<Character name={self.name} hp={self.hp} damage={self.damage}>)"
