@@ -1,3 +1,5 @@
+from game_simulator_dice import Dice
+
 class Weapon:
     def __init__(self, name: str, damage_dice: Dice) -> None:
         self.name = name
