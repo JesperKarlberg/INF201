@@ -1,0 +1,64 @@
+* a746a88 - Jesper Lie Karlberg, 15 seconds ago : Adding github repository
+* 5048e7e - Jesper Lie Karlberg, 6 minutes ago : Fixing notebook
+* f740c21 - Jesper Lie Karlberg, 6 minutes ago : Fixing items
+* 84b25c6 - Jesper Lie Karlberg, 13 minutes ago : retrying
+* 3880df5 - Jesper Lie Karlberg, 14 minutes ago : Adding requirements
+* 96b3a33 - Jesper Lie Karlberg, 16 minutes ago : Retrying jupyter notebook
+* fe13189 - Jesper Lie Karlberg, 17 minutes ago : Fixig items, and adding the jupyter notebook
+* 4cbc734 - Jesper Lie Karlberg, 26 hours ago : updating task 2 and adding task 3 and 4
+*   10ef3b0 - JesperKarlberg, 27 hours ago : Merge pull request #11 from JesperKarlberg/deliverable_3_branch
+|\  
+| * 370ac7b - Jesper Lie Karlberg, 27 hours ago : Adding task 5
+|/  
+* cecd987 - Jesper Lie Karlberg, 28 hours ago : Adding battle file
+* 9530f8f - Jesper Lie Karlberg, 2 days ago : adding game_simulator
+* 8746018 - Jesper Lie Karlberg, 2 days ago : Adding Deliverable 3, and task1and 2
+* 6fa33fa - Jesper Lie Karlberg, 13 days ago : adding git log
+*   791aff7 - JesperKarlberg, 13 days ago : Merge pull request #10 from JesperKarlberg/deliverable_2_Jesper
+|\  
+| * 92d68ad - Jesper Lie Karlberg, 13 days ago : Adding git-link and sources
+* | 0c045a0 - JesperKarlberg, 2 weeks ago : Merge pull request #9 from JesperKarlberg/deliverable_2_Jesper
+|\| 
+| * ced6d5c - Jesper Lie Karlberg, 2 weeks ago : Adding task5, updating gitignore, requirements and output
+|/  
+*   5ed88f1 - frols03, 2 weeks ago : Merge pull request #8 from JesperKarlberg/deli_branch_Fred_2
+|\  
+| * 2c72597 - frols03, 2 weeks ago : Fixing issue with task 3 and 4
+|/  
+*   35eef47 - frols03, 2 weeks ago : Merge pull request #7 from JesperKarlberg/deliverable_2_fred
+|\  
+| * bec9cdf - frols03, 2 weeks ago : adding task 3 and 4
+|/  
+*   d0feea8 - JesperKarlberg, 3 weeks ago : Merge pull request #6 from JesperKarlberg/deliverable_2_Jesper
+|\  
+| * ce1f0f2 - Jesper Lie Karlberg, 3 weeks ago : Adding Task 2, updating gitignore, and adding requirements
+|/  
+*   3cbbe84 - Jesper Lie Karlberg, 3 weeks ago : Merge branch 'main' of https://github.com/JesperKarlberg/INF120
+|\  
+| *   a28e674 - JesperKarlberg, 3 weeks ago : Merge pull request #5 from JesperKarlberg/correcting_errors
+| |\  
+| | * 6405305 - Jesper Lie Karlberg, 3 weeks ago : Adding deliverable 2, with task_1 and updated gitignore
+| * | 0f397df - JesperKarlberg, 4 weeks ago : Merge pull request #4 from JesperKarlberg/correcting_errors
+| |\| 
+| | * cea5e86 - Jesper Lie Karlberg, 4 weeks ago : Correcting errors
+| |/  
+* / 2ae0063 - Jesper Lie Karlberg, 3 weeks ago : Failed to merge. retrying...
+|/  
+* 7c286d3 - Jesper Lie Karlberg, 4 weeks ago : heatewaves file written by script
+*   240e3ee - JesperKarlberg, 4 weeks ago : Merge pull request #3 from JesperKarlberg/deliverable_1_jspr_branch
+|\  
+| * a5f341c - Jesper Lie Karlberg, 4 weeks ago : Adding task 2 and 4 by Fredrik, correcting errors
+* | 386b882 - JesperKarlberg, 4 weeks ago : Merge pull request #2 from JesperKarlberg/deliverable_1_jspr_branch
+|\| 
+| * 40659e1 - Jesper Lie Karlberg, 4 weeks ago : Adding Task3, Task5, and source list
+| * c8883b3 - Jesper Lie Karlberg, 4 weeks ago : Making a list of packages for the venv
+* |   70d9696 - Jesper Lie Karlberg, 4 weeks ago : Merge branch 'main' of https://github.com/JesperKarlberg/INF120
+|\ \  
+| * | 34da0cc - JesperKarlberg, 4 weeks ago : Merge pull request #1 from JesperKarlberg/deliverable_1_jspr_branch
+| |\| 
+| | * 1a17cbf - Jesper Lie Karlberg, 4 weeks ago : Task1 branch commit to main
+| * | 26762f0 - JesperKarlberg, 4 weeks ago : Rename repository to INF201
+| |/  
+* / 463d32e - Jesper Lie Karlberg, 4 weeks ago : Making a list of packages for the venv
+|/  
+* 24319b7 - JesperKarlberg, 5 weeks ago : Initial commit
