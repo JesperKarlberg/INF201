@@ -1,0 +1,41 @@
+
+
+zodiac_compatibility = {
+"Aries": {"compatible": ["Leo", "Sagittarius"], "incompatible": ["Virgo", "Scorpio"]},
+"Taurus": {"compatible": ["Virgo", "Capricorn"], "incompatible": ["Libra", "Sagittarius"]},
+"Gemini": {"compatible": ["Libra", "Aquarius"], "incompatible": ["Scorpio", "Capricorn"]},
+"Cancer": {"compatible": ["Scorpio", "Pisces"], "incompatible": ["Sagittarius", "Aquarius"]},
+"Leo": {"compatible": ["Aries", "Sagittarius"], "incompatible": ["Capricorn", "Pisces"]},
+"Virgo": {"compatible": ["Capricorn", "Taurus"], "incompatible": ["Aries", "Aquarius"]},
+"Libra": {"compatible": ["Gemini", "Aquarius"], "incompatible": ["Taurus", "Pisces"]},
+"Scorpio": {"compatible": ["Cancer", "Pisces"], "incompatible": ["Gemini", "Aries"]},
+"Sagittarius": {"compatible": ["Aries", "Leo"], "incompatible": ["Taurus", "Cancer"]},
+"Capricorn": {"compatible": ["Taurus", "Virgo"], "incompatible": ["Gemini", "Leo"]},
+"Aquarius": {"compatible": ["Gemini", "Libra"], "incompatible": ["Cancer", "Virgo"]},
+"Pisces": {"compatible": ["Cancer", "Scorpio"], "incompatible": ["Leo", "Libra"]}
+}
+
+
+def check_person(sign1:str, sign2:str) -> str:
+
+    if sign1 not in zodiac_compatibility or sign2 not in zodiac_compatibility:
+        return "unknown zodiac sign"
+
+    info = zodiac_compatibility[sign1]
+
+    if sign2 in info["compatible"]:
+        return "compatible"
+    elif sign2 in info["incompatible"]:
+        return "incompatible"
+    else:
+        return "unknown compatibility"
+
+
+person_1 = "Aries"
+person_2 = "Leo"
+
+result = check_person(person_1, person_2)
+print("yes:", result)
+
+
+  
